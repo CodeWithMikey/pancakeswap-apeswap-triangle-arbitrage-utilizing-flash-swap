@@ -15,6 +15,9 @@ https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-cha
 
 You will need a fund your metamask new wallet with at least 0.28 BNB
 
+You can get the bot code here
+https://github.com/CodeWithMikey/pancakeswap-apeswap-triangle-arbitrage-utilizing-flash-swap/blob/main/arbitrage.txt
+
 You will need to go to to deploy the contract bot
 
 https://remix.ethereum.org/
