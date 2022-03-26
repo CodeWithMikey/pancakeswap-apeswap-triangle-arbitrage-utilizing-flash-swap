@@ -7,7 +7,7 @@ long as it's paid back in the same block transaction. Utilizes that to borrow as
 Here's a YouTube tutorial on exactly how to execute it
 
 You will need the metamask extension installed in your browser if you don't already have it
-Https://Metamask.io
+https://Metamask.io
 
 You will need to configure metamask to use the bnb smart chain
 
