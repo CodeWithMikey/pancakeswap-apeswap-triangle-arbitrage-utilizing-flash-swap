@@ -5,6 +5,7 @@ long as it's paid back in the same block transaction. Utilizes that to borrow as
  that's available at the time of the execution of this script. By doing so it maximizes your profit. 
 
 Here's a YouTube tutorial on exactly how to execute it
+https://youtu.be/1UIDEZgbnOk
 
 You will need the metamask extension installed in your browser if you don't already have it
 https://Metamask.io
